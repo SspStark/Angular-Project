@@ -5,7 +5,7 @@
 
 - Clone this branch to your local machine
 
-  `git clone -b homes-app-start git@github.com:angular/codelabs.git homes-app`
+  `git clone https://github.com/SspStark/Angular-Project.git homes-app`
 
 - Once the code has been downloaded
 
